@@ -105,7 +105,7 @@ class Groups extends Component {
                       <th scope="row">5</th>
                       <td>GT Ladies</td>
                       <td>Mushy Miriam :)</td>
-                      <td>000400</td>
+                      <td>00400</td>
                     </tr>
                   </tbody>
                 </Table>
